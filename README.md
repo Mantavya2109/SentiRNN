@@ -1,6 +1,6 @@
 # RNN Sentiment Analysis
 
-This repository contains a Jupyter notebook for IMDb movie review sentiment classification with a simple recurrent neural network built in PyTorch.
+This repository is about IMDb movie review sentiment classification with a recurrent neural network ( RNN ) built in PyTorch.
 
 ## What it does
 
